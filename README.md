@@ -39,13 +39,9 @@ El proyecto consiste en el procesamiento, limpieza, análisis exploratorio y vis
 
 A continuación se presentan las conclusiones extraídas del análisis realizado sobre el dataset de ventas, utilizando datos reales y resultados de agrupaciones y visualizaciones:
 
----
-
 ### Estructura y Volumen del Dataset
 
 - El dataset contiene **51,290 registros** y **17 columnas** con información sobre pedidos, clientes, productos, ventas, ganancias, descuentos, costos de envío y más.
-
----
 
 ### Desempeño por Categoría
 
@@ -74,29 +70,21 @@ A continuación se presentan las conclusiones extraídas del análisis realizado
   - Furniture: **$416.25**
   - Office Supplies: **$121.10**
 
----
-
 ### Estacionalidad y Meses Clave
 
 - El análisis mensual revela variaciones destacadas en el volumen de ventas por mes (ver gráfico de ventas por mes en el notebook).
 - Se observa una acumulación significativa de ventas en determinados meses, lo que sugiere estacionalidad y posibles campañas exitosas.
 - Los meses con mayores ventas pueden identificarse claramente en la visualización (consultar gráfico en el notebook para ver los picos exactos).
 
----
-
 ### Patrones por Subcategoría
 
 - Las subcategorías con mayor cantidad de productos vendidos destacan en el análisis, permitiendo identificar los artículos más populares para enfocar inventario y promociones.
 - Consulta el gráfico de barras horizontal para ver el ranking exacto de subcategorías.
 
----
-
 ### Relación de Variables
 
 - Existe una relación visible (aunque dispersa) entre el **descuento aplicado y la ganancia**: descuentos elevados tienden a reducir la rentabilidad, como muestra el gráfico de dispersión.
 - También se analiza la relación entre el **costo de envío y la ganancia**, útil para identificar oportunidades de optimización logística.
-
----
 
 ### Recomendaciones y Oportunidades
 
@@ -104,8 +92,6 @@ A continuación se presentan las conclusiones extraídas del análisis realizado
 - Ajustar políticas de descuento para evitar erosión de márgenes, especialmente en categorías de baja ganancia promedio.
 - Profundizar en la estacionalidad detectada para lanzar campañas específicas en los meses de mayor venta.
 - Revisar costos logísticos, ya que el costo de envío impacta de forma variable en la ganancia.
-
----
 
 > Para visualizar los gráficos y detalles completos, consulta el notebook original:
 > [sales-analysis.ipynb (GitHub)](https://github.com/Jesus-David-Silva-Rangel-19/Sales-Insights/blob/b52e148483bf72ae4ac2e258b20b0eaa6284751e/sales-analysis.ipynb)
@@ -121,5 +107,4 @@ A continuación se presentan las conclusiones extraídas del análisis realizado
 
 Este proyecto es un ejemplo práctico de cómo el análisis de datos puede ofrecer ventajas competitivas en el ámbito comercial. A través de técnicas de ciencia de datos y visualización, es posible transformar información bruta en conocimiento útil para la toma de decisiones empresariales.
 
----
 Desarrollado por [Jesus-David-Silva-Rangel-19](https://github.com/Jesus-David-Silva-Rangel-19)
