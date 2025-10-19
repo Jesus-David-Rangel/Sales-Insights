@@ -1,4 +1,4 @@
-# Optimización de Estrategias Comerciales mediante el Análisis de Ventas
+## Optimización de Estrategias Comerciales mediante el Análisis de Ventas
 
 Este proyecto, **Sales Insights**, es un análisis de datos de ventas realizado sobre un dataset de transacciones comerciales. El objetivo principal es descubrir patrones de comportamiento, tendencias y oportunidades para la toma de decisiones en el ámbito comercial, utilizando herramientas de análisis y visualización de datos en Python.
 
